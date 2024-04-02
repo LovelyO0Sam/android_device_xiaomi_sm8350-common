@@ -21,6 +21,7 @@ ro.max.fling_velocity=21000
 # Graphics
 debug.sf.disable_backpressure=1
 debug.sf.enable_hwc_vds=1
+debug.sf.predict_hwc_composition_strategy=0
 
 # Log
 persist.log.tag.AnalyticsService=S
